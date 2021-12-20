@@ -23,11 +23,11 @@ you need to support - they're self explanatory. The system should allow input in
 ways. Just to clarify, the same codebase should support both modes of input - we
 don't want two distinct submissions.
 
-## 1. It should provide us with an interactive command prompt based shell where commands can be typed in.
-## Command to run without file
+### 1. It should provide us with an interactive command prompt based shell where commands can be typed in.
+#### Command to run without file
    C:/Users/LENOVO/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/LENOVO/Desktop/project parkinglot/Project/Src/main.py"
-## 2. It should accept a filename as a parameter at the command prompt and read the commands from that file.
-## Command to run with file
+### 2. It should accept a filename as a parameter at the command prompt and read the commands from that file.
+#### Command to run with file
    C:/Users/LENOVO/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/LENOVO/Desktop/project parkinglot/Project/Src/main.py" -f "c:/Users/LENOVO/Desktop/project parkinglot/Project/BatchFolder/ParkingData20211216.txt"
    
    ### Example: File
